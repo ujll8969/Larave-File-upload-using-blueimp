@@ -18,11 +18,12 @@ paste the below script inside require in composer.json file and run  **composer 
 
 <pre>
     <div class="container">
-        <div class="block two first">
             <h2>**To install croppa.**</h2>
             <div class="wrap">
             composer require bkwld/croppa
             </div>
+<div class="block two first">
+
         </div>
     </div>
 </pre>
