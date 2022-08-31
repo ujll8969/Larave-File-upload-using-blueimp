@@ -13,12 +13,13 @@ composer require bkwld/croppa
 **To install fileupload**
 Gargron / fileupload
 
-paste the below script inside require in composer.json file and run  **composer update --no-scripts**
+paste the below script inside require in composer.json file.
 ```json
 "require": {
     "gargron/fileupload": "~1.4.0"
   }
 ```
+and run  **composer update --no-scripts** it will install the fileupload.
  
 
 
