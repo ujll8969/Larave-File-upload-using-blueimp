@@ -14,10 +14,12 @@ composer require bkwld/croppa
 Gargron / fileupload
 
 paste the below script inside require in composer.json file and run  **composer update --no-scripts**
-
- "require": {
+```json
+"require": {
     "gargron/fileupload": "~1.4.0"
   }
+```
+ 
 
 
 
