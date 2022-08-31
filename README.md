@@ -1,4 +1,4 @@
-# Larave-File-upload-using-blueimp
+# Laravel-File-upload-using-blueimp
 Multiple file upload using blueimp in larave 8, Multiple form on same url.
 
 <a href="https://blueimp.github.io/jQuery-File-Upload/" target="_blank">DEMO</a>
