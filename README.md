@@ -17,6 +17,17 @@ Gargron / fileupload
 
 paste the below script inside require in composer.json file and run  **composer update --no-scripts**
 
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+
  "require": {
     "gargron/fileupload": "~1.4.0"
   }
