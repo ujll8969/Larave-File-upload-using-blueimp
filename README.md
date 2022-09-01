@@ -23,5 +23,7 @@ and run  **composer update --no-scripts** it will install the fileupload.
  
 
 
+For using the multiple file upload section on same page you have change id of form only and access the files with different form id.
+
 
 
